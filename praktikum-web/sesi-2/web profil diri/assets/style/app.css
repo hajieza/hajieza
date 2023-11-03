@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(#9a08dd 0%, #dd4c4f 40%,#7420d2 100%);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 120px;
+}
+
+.profileimage {
+    width: 200px;
+}
+.profile h2 {
+    color: white;
+}
+.profile h4 {
+    color: white;
+    transform: translateY(-10px);
+}
+.biodata {
+    background-color: white;
+}
+.instagram:riza.ibsan .tiktok:hajieza{
+    color: blue;
+}
